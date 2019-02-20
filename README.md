@@ -1,4 +1,4 @@
-# MindReadingGame
+# MindReadingGame by Joan S. Quintero
 
 ## Specification for Mind Reading Game
 
