@@ -1,11 +1,11 @@
 # MindReadingGame
 
 Specification for Mind Reading Game
-1.	The program will play a game between two players
-a.	The game is called Mind Reading
-b.	The game will have an input range from 1 to 10
-c.	Player 2 will be the Mind Readee
-        i. His job is to input a number for the Mind Reader to attempt at guessing.
+1.      The program will play a game between two players  
+a.	The game is called Mind Reading  
+b.	The game will have an input range from 1 to 10  
+c.	Player 2 will be the Mind Readee  
+        i. His job is to input a number for the Mind Reader to attempt at guessing.  
 d.	Player 1 will be the Mind Reader
 i.	His job is to attempt to guess the Mind Readee’s inputs.
 2.	The users (or players) will get to pick the position they wish to play the game.
